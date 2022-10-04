@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software-Engineer, Data Security & Cryptography, Computer Networks**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **Java, C/C++ Projects**
 
 - 💬 Ask me about **Computer Engineering, Music**
 
