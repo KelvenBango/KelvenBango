@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [alx-low_level_programming](https://github.com/KelvenBango/alx-low_level_programming)
 
-- 🌱 I’m currently learning **Software-Engineer,Data Security & Cryptography, Computer Networks**
+- 🌱 I’m currently learning **Software-Engineer, Data Security & Cryptography, Computer Networks**
 
 - 👯 I’m looking to collaborate on **Java**
 
