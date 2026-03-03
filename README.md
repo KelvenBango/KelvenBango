@@ -87,7 +87,7 @@
 <h3 align="left">Banco de Dados:</h3>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -100,7 +100,7 @@
 <h3 align="left">DevOps & Cloud:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
   <a href="https://railway.app/" target="_blank" rel="noreferrer"> 
     <img src="https://railway.app/brand/logo-light.svg" alt="railway" width="40" height="40"/> 
@@ -133,14 +133,25 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenbango&show_icons=true&locale=en&layout=compact&theme=dark" alt="kelvenbango" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenbango&show_icons=true&locale=en&layout=compact&theme=dark" alt="kelvenbango" height="150" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvenbango&show_icons=true&locale=en&theme=dark" alt="kelvenbango" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvenbango&show_icons=true&locale=en&theme=dark" alt="kelvenbango" height="150" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenbango&theme=dark" alt="kelvenbango" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenbango&theme=dark" alt="kelvenbango" height="150" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kelvenbango/kelvenbango/output/snake.svg" alt="Snake animation" />
+</p>
+
+### ⚡ Curiosidades sobre mim:
+- 🎵 Apaixonado por música
+- 💡 Sempre aprendendo novas tecnologias
+- 🌍 Baseado em Moçambique
