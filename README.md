@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋, sou Kelven Bango</h1>
-<h3 align="center">Consultor ERP | Desenvolvedor de Software | AI & Machine Learning Entusiasta</h3>
+<h1 align="center">Hi 👋, I'm Kelven Bango</h1>
+<h3 align="center">ERP Consultant | Software Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kelvenbango&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="kelvenbango" /> 
+  <img src="https://komarev.com/ghpvc/?username=kelvenbango&label=Profile%20views&color=0e75b6&style=flat" alt="kelvenbango" /> 
 </p>
 
 <p align="left"> 
@@ -11,28 +11,28 @@
   </a> 
 </p>
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-💼 Atualmente trabalho como **Consultor ERP** e **Desenvolvedor de Software**
+💼 I'm currently working as an **ERP Consultant** and **Software Developer**
 
-🤖 Entusiasta de **IA e Machine Learning**, explorando constantemente novas tecnologias
+🤖 **AI and Machine Learning enthusiast**, constantly exploring new technologies
 
-🌱 Especializando-me em **Inteligência Artificial, RAG, LangChain e soluções baseadas em IA**
+🌱 Specializing in **Artificial Intelligence, RAG, LangChain, and AI-powered solutions**
 
-💻 Desenvolvedor com experiência em:
+💻 Developer with experience in:
 - **Backend:** Python (Flask, Django), VB.NET
 - **Frontend:** JavaScript ES6+, React, TailwindCSS
-- **Banco de Dados:** PostgreSQL, SQL
+- **Database:** PostgreSQL, SQL
 - **DevOps & Cloud:** Docker, Railway
-- **IA/ML:** LangChain, RAG (Retrieval-Augmented Generation)
+- **AI/ML:** LangChain, RAG (Retrieval-Augmented Generation)
 
-📊 Expertise em **Implementação de ERP** e **Análise de Negócios**
+📊 Expertise in **ERP Implementation** and **Business Analysis**
 
-📫 Como me encontrar: **Kelvenbango@gmail.com**
+📫 How to reach me: **Kelvenbango@gmail.com**
 
-📄 Conheça minha experiência profissional: [Meu Currículo](https://docs.google.com/document/d/1_P3YShwRoZABVSekmu-x4bcDGw2StIflvycmk3KaYHY/edit?usp=sharing)
+📄 Check out my professional experience: [My Resume](https://docs.google.com/document/d/1_P3YShwRoZABVSekmu-x4bcDGw2StIflvycmk3KaYHY/edit?usp=sharing)
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kelven-bango-645b38180/" target="blank">
@@ -43,9 +43,9 @@
   </a>
 </p>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-<h3 align="left">Linguagens de Programação:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -56,7 +56,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
-  <a href="https://dotnet.microsoft.com/pt-br/languages/vb" target="_blank" rel="noreferrer"> 
+  <a href="https://dotnet.microsoft.com/en-us/languages/vb" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="vb.net" width="40" height="40"/> 
   </a>
 </p>
@@ -84,7 +84,7 @@
   </a>
 </p>
 
-<h3 align="left">Banco de Dados:</h3>
+<h3 align="left">Database:</h3>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -110,7 +110,7 @@
   </a>
 </p>
 
-<h3 align="left">IA & Machine Learning:</h3>
+<h3 align="left">AI & Machine Learning:</h3>
 <p align="left">
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.langchain.com/favicon.ico" alt="langchain" width="40" height="40"/> 
@@ -118,7 +118,7 @@
   <span style="font-size: 16px; margin-left: 10px;">RAG (Retrieval-Augmented Generation)</span>
 </p>
 
-<h3 align="left">Ferramentas & Outros:</h3>
+<h3 align="left">Tools & Others:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -131,7 +131,7 @@
   </a>
 </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenbango&show_icons=true&locale=en&layout=compact&theme=dark" alt="kelvenbango" height="150" />
@@ -151,7 +151,7 @@
   <img src="https://raw.githubusercontent.com/kelvenbango/kelvenbango/output/snake.svg" alt="Snake animation" />
 </p>
 
-### ⚡ Curiosidades sobre mim:
-- 🎵 Apaixonado por música
-- 💡 Sempre aprendendo novas tecnologias
-- 🌍 Baseado em Moçambique
+### ⚡ Fun facts about me:
+- 🎵 Passionate about music
+- 💡 Always learning new technologies
+- 🌍 Based in Mozambique
